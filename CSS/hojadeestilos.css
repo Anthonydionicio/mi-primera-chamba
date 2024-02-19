@@ -12,7 +12,7 @@ nav{
 nav ul {
     margin: 0px;
     padding: 0px;
-    overflow hidden;
+    overflow: hidden;
 
 }
 nav #menuprincipal{
@@ -26,7 +26,7 @@ nav #menuprincipal ul li {
 
 }
 nav #menuprincipal ul li a{
-    display block;
+    display: block;
     padding: 10px 15px;
     text-decoration: none;
     color : white;
@@ -43,18 +43,19 @@ nav #menuprincipal ul li a{
         float: left;
         width: 27%;
         margin-top: 20px;
-            }
-             aside .panel{
-                margin 0px;
-                background:#4eb4a3;
-                border: solid 1px #edecec;
-                font-family: arial;
-                font-size: 12px;
-                width: 100%;
+        }
+             
+    aside .panel{
+    margin: 0px;
+    background:#4eb4a3;
+    border: solid 1px #edecec;
+    font-family: arial;
+    font-size: 12px;
+    width: 100%;
 
 
-            }
-            aside .contenedor{
+}
+aside .contenedor{
                 padding: 10px;
                 
             }
